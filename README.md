@@ -1,1 +1,1 @@
-# -potencial-dev-week-hotel
+# potencial-dev-week-hotel
